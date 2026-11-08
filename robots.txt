@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://swarup-kumar-supakar.vercel.app/sitemap.xml
